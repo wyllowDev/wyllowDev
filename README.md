@@ -253,7 +253,3 @@ me chamo joao vitor, tenho 24 anos e cursei ADS(Análise e Desenvolvimento de Si
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-loadstring(game:HttpGet("https://rawscripts.net/raw/UPD-Star-Fishing-best-autofish-instant-reel-fast-Auste-122928"))()
-
-
-
