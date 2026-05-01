@@ -1,41 +1,39 @@
+<!-- TOP BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000,8B0000&height=220&section=header&text=wyllowDev&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Red%20Team%20Operator%20%7C%20Offensive%20Security&descSize=18&descAlignY=58&descColor=ffcccc&animation=fadeIn"/>
+
 <div align="center">
-
-```
-██████╗ ███████╗███╗   ██╗████████╗███████╗███████╗████████╗
-██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝
-██████╔╝█████╗  ██╔██╗ ██║   ██║   █████╗  ███████╗   ██║   
-██╔═══╝ ██╔══╝  ██║╚██╗██║   ██║   ██╔══╝  ╚════██║   ██║   
-██║     ███████╗██║ ╚████║   ██║   ███████╗███████║   ██║   
-╚═╝     ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝   ╚═╝   
-```
-
-### `$ whoami` → **Pentester | Offensive Security | Bug Bounty Hunter**
 
 [
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Web+%26+Network+Pentesting;Bug+Bounty+Hunter+%7C+Vulnerability+Research;Breaking+Things+To+Make+Them+Stronger)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF2020&center=true&vCenter=true&width=650&lines=Red+Team+%7C+Offensive+Security+Specialist;Web+%26+Network+Pentesting+%7C+Bug+Bounty+Hunter;Vulnerability+Research+%7C+Exploit+Development;Breaking+Things+To+Make+Them+Stronger)
 
 ](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Company-HugeNetwork-blue?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mode-Always%20Hacking-black?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/🎯_Focus-Offensive%20Security-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏢_Company-HugeNetwork-1a1a2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💀_Mode-Always%20Hacking-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐛_Bug%20Bounty-Active-CC0000?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `> about_me.sh`
+## `> whoami`
 
 ```bash
-$ cat /etc/passwd | grep pentester
-pentester:x:1337:1337:Offensive Security Specialist:/home/pentest:/bin/zsh
+┌──(wyllowDev㉿kali)-[~]
+└─$ id
+uid=1337(wyllowDev) gid=1337(redteam) groups=1337(redteam),0(root)
 
-$ id
-uid=1337(pentester) gid=1337(security) groups=1337(security),0(root)
+┌──(wyllowDev㉿kali)-[~]
+└─$ cat about.txt
+Pentester focado em segurança ofensiva, exploração de vulnerabilidades
+e análise profunda de aplicações web e infraestruturas.
+Atualmente atuando na HugeNetwork com experiência prática em
+ambientes reais, bug bounty e automação de testes de segurança.
 ```
-
-> Pentester focado em **segurança ofensiva**, exploração de vulnerabilidades e análise profunda de aplicações web e infraestruturas. Atuando na **HugeNetwork** com experiência prática em ambientes reais, **bug bounty** e automação de testes de segurança.
 
 ---
 
@@ -46,76 +44,7 @@ uid=1337(pentester) gid=1337(security) groups=1337(security),0(root)
 <br>
 <div align="center">
 
-
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-
-
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-
-
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-
-
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-
-
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
+<img src="https://skillicons.dev/icons?i=php,c,cpp,cs,js,ts,python,java,rust,go,lua,html,css&theme=dark&perline=7"/>
 
 </div>
 </details>
@@ -125,36 +54,7 @@ uid=1337(pentester) gid=1337(security) groups=1337(security),0(root)
 <br>
 <div align="center">
 
-
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-
-
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-
-
-
-![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-
-
-
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-
-
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
-
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
+<img src="https://skillicons.dev/icons?i=laravel,vue,vite,tailwind,bootstrap&theme=dark"/>
 
 </div>
 </details>
@@ -164,31 +64,17 @@ uid=1337(pentester) gid=1337(security) groups=1337(security),0(root)
 <br>
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,ansible&theme=dark"/>
 
+</div>
+</details>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<details>
+<summary><b>🔒 Security & OS</b></summary>
+<br>
+<div align="center">
 
-
-
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-
-
-
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,aws,azure,gcp&theme=dark"/>
 
 </div>
 </details>
@@ -215,15 +101,24 @@ uid=1337(pentester) gid=1337(security) groups=1337(security),0(root)
 [✓] Payload Obfuscation & Encoding
 [✓] Fuzzing Avançado
 [✓] Exploração Manual
+[✓] XXE Injection
+[✓] SSTI (Template Injection)
+[✓] HTTP Request Smuggling
+[✓] Insecure Deserialization
+[✓] CORS Misconfiguration
+[✓] Clickjacking
 ```
 
 ### 🔐 Auth & Session Attacks
 ```
 [✓] Broken Authentication
 [✓] Session Hijacking & Fixation
-[✓] JWT Attacks
-[✓] Brute Force
+[✓] JWT Attacks (alg:none, RS→HS)
+[✓] OAuth 2.0 Flaws
+[✓] Brute Force / Credential Stuffing
 [✓] Rate Limit Bypass
+[✓] 2FA Bypass
+[✓] Password Reset Poisoning
 ```
 
 </td>
@@ -234,18 +129,24 @@ uid=1337(pentester) gid=1337(security) groups=1337(security),0(root)
 [✓] Enumeração de Rede
 [✓] Nmap Avançado (NSE Scripts)
 [✓] FTP • SMB • SSH • RDP
+[✓] SNMP Enumeration
+[✓] DNS Zone Transfer
 [✓] Pivoting
 [✓] Port Forwarding
-[✓] Tunneling
+[✓] Tunneling (Chisel, Ligolo-ng)
+[✓] ARP Spoofing / MITM
+[✓] Pass-the-Hash / Pass-the-Ticket
 ```
 
 ### ☁️ Cloud Security
 ```
-[✓] AWS — S3, IAM Misconfigs
-[✓] Azure
-[✓] GCP
+[✓] AWS — S3, IAM, EC2, Lambda
+[✓] Azure AD Attacks
+[✓] GCP Misconfigurations
 [✓] Privilege Escalation
-[✓] Cloud Misconfigurations
+[✓] SSRF → Cloud Metadata
+[✓] Exposed Keys & Secrets
+[✓] Container Escape (Docker/K8s)
 ```
 
 ### 🔌 API Security
@@ -254,6 +155,9 @@ uid=1337(pentester) gid=1337(security) groups=1337(security),0(root)
 [✓] IDOR em APIs
 [✓] Mass Assignment
 [✓] Rate Limiting Bypass
+[✓] GraphQL Introspection Abuse
+[✓] Broken Object Level Auth
+[✓] API Key Leakage
 ```
 
 </td>
@@ -265,57 +169,164 @@ uid=1337(pentester) gid=1337(security) groups=1337(security),0(root)
 ## `> recon --automate`
 
 ```python
-tools = [
-    "Amass",       # Subdomain Enumeration
-    "Subfinder",   # Passive Recon
-    "FFUF",        # Directory & Parameter Fuzzing
-    "Nuclei",      # Custom Templates
-    "httpx",       # Probing Live Hosts
-    "gau",         # Endpoint Discovery
-    "LinkFinder",  # JS Analysis
-]
-for tool in tools:
-    run(f"{tool} -target {scope} -o ./recon/{tool}.txt")
+#!/usr/bin/env python3
+# wyllowDev — Recon Pipeline
+
+scope = "target.com"
+
+tools = {
+    "Amass":      f"amass enum -d {scope} -o recon/subdomains.txt",
+    "Subfinder":  f"subfinder -d {scope} -o recon/subfinder.txt",
+    "httpx":      f"httpx -l recon/subdomains.txt -o recon/live_hosts.txt",
+    "FFUF":       f"ffuf -u https://{scope}/FUZZ -w wordlist.txt -o recon/dirs.txt",
+    "Nuclei":     f"nuclei -l recon/live_hosts.txt -t ~/nuclei-templates/ -o recon/nuclei.txt",
+    "gau":        f"gau {scope} | tee recon/endpoints.txt",
+    "LinkFinder": f"python3 linkfinder.py -i https://{scope} -o cli",
+    "Wayback":    f"waybackurls {scope} | tee recon/wayback.txt",
+    "Katana":     f"katana -u https://{scope} -o recon/crawl.txt",
+    "TruffleHog": f"trufflehog git https://github.com/target/repo",
+}
+
+for name, cmd in tools.items():
+    print(f"[*] Running {name}...")
+    os.system(cmd)
 ```
 
 ---
 
-## `> arsenal --tools`
+## `> arsenal --list --full`
 
 <div align="center">
 
-| Tool | Category | Usage |
-|------|----------|-------|
-| 
+### 🔴 Exploitation & Web
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+| Tool | Badge | Uso |
+|------|-------|-----|
+| Burp Suite Pro | 
 
- | Web Proxy | Interceptação & Exploração |
-| 
+![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+ | Proxy, Scanner, Intruder |
+| OWASP ZAP | 
 
- | Scanner | Análise Automatizada |
-| 
+![ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
-
- | Network | Enumeração & Port Scan |
-| 
+ | Análise Automatizada |
+| SQLmap | 
 
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logoColor=white)
 
- | Injection | Automação SQLi |
-| 
+ | SQL Injection Automation |
+| XSStrike | 
 
-![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=flat-square&logoColor=white)
+![XSStrike](https://img.shields.io/badge/XSStrike-FF4500?style=flat-square&logoColor=white)
 
- | Scanner | Templates Customizados |
-| 
+ | XSS Detection & Exploitation |
+| Dalfox | 
+
+![Dalfox](https://img.shields.io/badge/Dalfox-FF0055?style=flat-square&logoColor=white)
+
+ | XSS Scanner Avançado |
+| Commix | 
+
+![Commix](https://img.shields.io/badge/Commix-8B0000?style=flat-square&logoColor=white)
+
+ | Command Injection |
+
+### 🌐 Network & Infrastructure
+
+| Tool | Badge | Uso |
+|------|-------|-----|
+| Nmap | 
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
+
+ | Port Scan & NSE Scripts |
+| Metasploit | 
+
+![MSF](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+
+ | Exploitation Framework |
+| Impacket | 
+
+![Impacket](https://img.shields.io/badge/Impacket-1a1a1a?style=flat-square&logoColor=white)
+
+ | SMB & Kerberos Attacks |
+| CrackMapExec | 
+
+![CME](https://img.shields.io/badge/CrackMapExec-CC0000?style=flat-square&logoColor=white)
+
+ | AD & Lateral Movement |
+| Chisel | 
+
+![Chisel](https://img.shields.io/badge/Chisel-444444?style=flat-square&logoColor=white)
+
+ | Tunneling & Pivoting |
+| Ligolo-ng | 
+
+![Ligolo](https://img.shields.io/badge/Ligolo--ng-222222?style=flat-square&logoColor=white)
+
+ | Advanced Pivoting |
+
+### 🔎 Recon & Fuzzing
+
+| Tool | Badge | Uso |
+|------|-------|-----|
+| FFUF | 
 
 ![FFUF](https://img.shields.io/badge/FFUF-39FF14?style=flat-square&logoColor=black)
 
- | Fuzzing | Brute Force & Discovery |
+ | Directory & Parameter Fuzzing |
+| Nuclei | 
+
+![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=flat-square&logoColor=white)
+
+ | Templates de Vulnerabilidades |
+| Amass | 
+
+![Amass](https://img.shields.io/badge/Amass-FF8C00?style=flat-square&logoColor=white)
+
+ | Subdomain Enumeration |
+| Subfinder | 
+
+![Subfinder](https://img.shields.io/badge/Subfinder-00BFFF?style=flat-square&logoColor=white)
+
+ | Passive Recon |
+| Katana | 
+
+![Katana](https://img.shields.io/badge/Katana-DC143C?style=flat-square&logoColor=white)
+
+ | Web Crawler Avançado |
+| TruffleHog | 
+
+![Trufflehog](https://img.shields.io/badge/TruffleHog-B8860B?style=flat-square&logoColor=white)
+
+ | Secrets & Credential Leaks |
+
+### 🔐 Password & Auth Attacks
+
+| Tool | Badge | Uso |
+|------|-------|-----|
+| Hashcat | 
+
+![Hashcat](https://img.shields.io/badge/Hashcat-CC0000?style=flat-square&logoColor=white)
+
+ | GPU Password Cracking |
+| John the Ripper | 
+
+![John](https://img.shields.io/badge/John%20The%20Ripper-8B0000?style=flat-square&logoColor=white)
+
+ | Hash Cracking |
+| Hydra | 
+
+![Hydra](https://img.shields.io/badge/THC%20Hydra-FF4500?style=flat-square&logoColor=white)
+
+ | Brute Force Online |
+| Medusa | 
+
+![Medusa](https://img.shields.io/badge/Medusa-6A0DAD?style=flat-square&logoColor=white)
+
+ | Parallel Login Brute Force |
 
 </div>
 
@@ -324,17 +335,37 @@ for tool in tools:
 ## `> stats --github`
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wyllowDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=CC0000&icon_color=CC0000&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyllowDev&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=CC0000&text_color=ffffff"/>
+
 </div>
+
+<br>
 
 <div align="center">
 
 [
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=terminal&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com?user=wyllowDev&theme=dark&hide_border=true&background=0D1117&stroke=CC0000&ring=CC0000&fire=FF6633&currStreakLabel=CC0000&sideLabels=ffffff&dates=888888)
 
 ](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=wyllowDev&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wyllowDev&bg_color=0d1117&color=CC0000&line=CC0000&point=ffffff&area=true&area_color=8B0000&hide_border=true&title_color=CC0000"/>
 
 </div>
 
@@ -348,39 +379,34 @@ for tool in tools:
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/SEU_USUARIO)
+](https://linkedin.com/in/wyllowDev)
 [
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-](https://twitter.com/SEU_USUARIO)
+](https://twitter.com/wyllowDev)
 [
 
 ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
 
-](https://hackerone.com/SEU_USUARIO)
+](https://hackerone.com/wyllowDev)
 [
 
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)
 
-](https://bugcrowd.com/SEU_USUARIO)
+](https://bugcrowd.com/wyllowDev)
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000,8B0000&height=120&section=footer&text=The+quieter+you+become%2C+the+more+you+are+able+to+hear.&fontSize=13&fontColor=ffcccc&fontAlignY=65&animation=fadeIn"/>
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  "The quieter you become, the more you are able to hear" │
-│                                          — Kali Linux    │
-└─────────────────────────────────────────────────────────┘
-```
 
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff41&style=flat-square&label=profile+views)
+![Visitor Count](https://komarev.com/ghpvc/?username=wyllowDev&color=CC0000&style=flat-square&label=profile+views)
 
 
 
