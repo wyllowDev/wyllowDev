@@ -327,11 +327,7 @@ for name, cmd in tools.items():
 
 <div align="center">
 
-[
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=wyllowDev&theme=dark&hide_border=true&background=0D1117&stroke=CC0000&ring=CC0000&fire=FF6633&currStreakLabel=CC0000&sideLabels=ffffff&dates=888888)
-
-](https://git.io/streak-stats)
 
 </div>
 
