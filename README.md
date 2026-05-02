@@ -5,7 +5,7 @@
 
 [
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF2020&center=true&vCenter=true&width=650&lines=Red+Team+%7C+Offensive+Security+Specialist;Web+%26+Network+Pentesting+%7C+Bug+Bounty+Hunter;Vulnerability+Research+%7C+Exploit+Development;Breaking+Things+To+Make+Them+Stronger)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF2020&center=true&vCenter=true&width=650&lines=Red+Team+%7C+Offensive+Security+Specialist;Web+%26+Network+Pentesting+%7C+Bug+Bounty+Hunter;Vulnerability+Research+%7C+Exploit+Development;Breaking+Things+To+Make+Them+Stronger)]
 
 <br>
 
