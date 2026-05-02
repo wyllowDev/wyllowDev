@@ -1,4 +1,3 @@
-<!-- TOP BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000,8B0000&height=220&section=header&text=wyllowDev&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Red%20Team%20Operator%20%7C%20Offensive%20Security&descSize=18&descAlignY=58&descColor=ffcccc&animation=fadeIn"/>
 
 <div align="center">
