@@ -40,7 +40,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 ## `> tech_stack --list-all`
 
 <details>
-<summary><b>💻 Linguagens de Programação</b></summary>
+<summary><b> Linguagens de Programação</b></summary>
 <br>
 <div align="center">
 
@@ -50,7 +50,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 </details>
 
 <details>
-<summary><b>🧩 Frameworks & Frontend</b></summary>
+<summary><b> Frameworks & Frontend</b></summary>
 <br>
 <div align="center">
 
@@ -60,7 +60,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 </details>
 
 <details>
-<summary><b>⚙️ DevOps & Infraestrutura</b></summary>
+<summary><b> DevOps & Infraestrutura</b></summary>
 <br>
 <div align="center">
 
@@ -70,7 +70,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 </details>
 
 <details>
-<summary><b>🔒 Security & OS</b></summary>
+<summary><b> Security & OS</b></summary>
 <br>
 <div align="center">
 
@@ -87,7 +87,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 <tr>
 <td width="50%" valign="top">
 
-### 🕸️ Web Application Pentest
+### Web Application Pentest
 ```
 [✓] XSS — Stored, Reflected, DOM
 [✓] SQL Injection
@@ -109,7 +109,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 [✓] Clickjacking
 ```
 
-### 🔐 Auth & Session Attacks
+### Auth & Session Attacks
 ```
 [✓] Broken Authentication
 [✓] Session Hijacking & Fixation
@@ -124,7 +124,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Network Pentest
+### Network Pentest
 ```
 [✓] Enumeração de Rede
 [✓] Nmap Avançado (NSE Scripts)
@@ -138,7 +138,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 [✓] Pass-the-Hash / Pass-the-Ticket
 ```
 
-### ☁️ Cloud Security
+### Cloud Security
 ```
 [✓] AWS — S3, IAM, EC2, Lambda
 [✓] Azure AD Attacks
@@ -149,7 +149,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 [✓] Container Escape (Docker/K8s)
 ```
 
-### 🔌 API Security
+### API Security
 ```
 [✓] REST & GraphQL
 [✓] IDOR em APIs
@@ -194,15 +194,12 @@ for name, cmd in tools.items():
 
 ---
 
-## `> arsenal --list --full`
+## `> ferramentas--list --full`
 
 <div align="center">
 
 ### 🔴 Exploitation & Web
 
-| Tool | Badge | Uso |
-|------|-------|-----|
-| Burp Suite Pro | 
 
 ![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
@@ -226,7 +223,7 @@ for name, cmd in tools.items():
 
 ![Dalfox](https://img.shields.io/badge/Dalfox-FF0055?style=flat-square&logoColor=white)
 
- | XSS Scanner Avançado |
+ | XSS Scanner |
 | Commix | 
 
 ![Commix](https://img.shields.io/badge/Commix-8B0000?style=flat-square&logoColor=white)
@@ -234,10 +231,6 @@ for name, cmd in tools.items():
  | Command Injection |
 
 ### 🌐 Network & Infrastructure
-
-| Tool | Badge | Uso |
-|------|-------|-----|
-| Nmap | 
 
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
 
@@ -270,10 +263,6 @@ for name, cmd in tools.items():
 
 ### 🔎 Recon & Fuzzing
 
-| Tool | Badge | Uso |
-|------|-------|-----|
-| FFUF | 
-
 ![FFUF](https://img.shields.io/badge/FFUF-39FF14?style=flat-square&logoColor=black)
 
  | Directory & Parameter Fuzzing |
@@ -304,10 +293,6 @@ for name, cmd in tools.items():
  | Secrets & Credential Leaks |
 
 ### 🔐 Password & Auth Attacks
-
-| Tool | Badge | Uso |
-|------|-------|-----|
-| Hashcat | 
 
 ![Hashcat](https://img.shields.io/badge/Hashcat-CC0000?style=flat-square&logoColor=white)
 
@@ -371,30 +356,13 @@ for name, cmd in tools.items():
 
 ---
 
-## `> contact --connect`
+## `> contato`
 
 <div align="center">
 
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/wyllowDev)
-[
-
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-](https://twitter.com/wyllowDev)
-[
-
-![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
-
-](https://hackerone.com/wyllowDev)
-[
-
-![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)
-
-](https://bugcrowd.com/wyllowDev)
 
 </div>
 
