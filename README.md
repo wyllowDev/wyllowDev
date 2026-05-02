@@ -17,7 +17,7 @@
 
 ---
 
-## `> whoami`
+## `> sobre mim🫶`
 
 ```bash
 ┌──(wyllowDev㉿kali)-[~]
