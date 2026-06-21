@@ -32,6 +32,7 @@ ambientes reais, bug bounty e automação de testes de segurança.
 HTB: https://app.hackthebox.com/users/2172690
 ---
 
+```
 ## `> tech_stack --list-all`
 
 <details>
