@@ -27,9 +27,7 @@ uid=1337(wyllowDev) gid=1337(redteam) groups=1337(redteam),0(root)
 Pentester focado em segurança ofensiva, exploração de vulnerabilidades
 e análise profunda de aplicações web e infraestruturas.
 Atualmente atuando na HugeNetwork com experiência prática em
-ambientes reais, bug bounty e automação de testes de segurança.
-
-HTB: https://app.hackthebox.com/users/2172690
+ambientes reais, bug bounty e automação de testes de segurança
 ---
 
 ```
